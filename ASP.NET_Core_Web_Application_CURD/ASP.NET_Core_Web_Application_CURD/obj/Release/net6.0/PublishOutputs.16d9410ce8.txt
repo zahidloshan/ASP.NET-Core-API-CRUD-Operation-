@@ -1,0 +1,7 @@
+C:\Users\Zahid Hasan\Desktop\asp.net\ASP.NET_Core_Web_Application_CURD\ASP.NET_Core_Web_Application_CURD\obj\Release\net6.0\PubTmp\Out\ASP.NET_Core_Web_Application_CURD.exe
+C:\Users\Zahid Hasan\Desktop\asp.net\ASP.NET_Core_Web_Application_CURD\ASP.NET_Core_Web_Application_CURD\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Zahid Hasan\Desktop\asp.net\ASP.NET_Core_Web_Application_CURD\ASP.NET_Core_Web_Application_CURD\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Zahid Hasan\Desktop\asp.net\ASP.NET_Core_Web_Application_CURD\ASP.NET_Core_Web_Application_CURD\obj\Release\net6.0\PubTmp\Out\ASP.NET_Core_Web_Application_CURD.dll
+C:\Users\Zahid Hasan\Desktop\asp.net\ASP.NET_Core_Web_Application_CURD\ASP.NET_Core_Web_Application_CURD\obj\Release\net6.0\PubTmp\Out\ASP.NET_Core_Web_Application_CURD.deps.json
+C:\Users\Zahid Hasan\Desktop\asp.net\ASP.NET_Core_Web_Application_CURD\ASP.NET_Core_Web_Application_CURD\obj\Release\net6.0\PubTmp\Out\ASP.NET_Core_Web_Application_CURD.runtimeconfig.json
+C:\Users\Zahid Hasan\Desktop\asp.net\ASP.NET_Core_Web_Application_CURD\ASP.NET_Core_Web_Application_CURD\obj\Release\net6.0\PubTmp\Out\ASP.NET_Core_Web_Application_CURD.pdb
