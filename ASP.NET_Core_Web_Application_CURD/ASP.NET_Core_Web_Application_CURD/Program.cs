@@ -1,7 +1,14 @@
+using ASP.NET_Core_Web_Application_CURD.Model;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
+
+// Db contex
+builder.Services.AddDbContext<ApplicationDBContext>(options =>
+  options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 // Add services to the container.
-builder.Services.AddRazorPages();
+builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 
 var app = builder.Build();
 
