@@ -10,5 +10,6 @@ namespace ASP.NET_Core_Web_Application_CURD.Model
         [Required]
         public string Name { get; set; }
         public string Author { get; set; }
+        public string Token { get; set; }
     }
 }

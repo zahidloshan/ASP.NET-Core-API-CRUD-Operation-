@@ -15,7 +15,7 @@ namespace ASP.NET_Core_Web_Application_CURD.Pages.BookPage
         }
         public IEnumerable<Book> Books { get; set; }
 
-        public async void OnGet()
+        public async Task OnGet()
         {
             Books = await _db.Book.ToListAsync();
         }

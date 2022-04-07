@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="Pages\BookPage\Create.cshtml" />
     <Content Remove="Pages\BookPage\Index.cshtml" />
   </ItemGroup>
 
@@ -29,11 +30,17 @@
   </ItemGroup>
 
   <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\BookPage\Create.cshtml" />
     <_ContentIncludedByDefault Remove="Pages\BookPage\Index.cshtml" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Pages\BookPage\Create.cshtml" />
     <None Include="Pages\BookPage\Index.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\BookPage\Create.cshtml" />
   </ItemGroup>
 
 </Project>
