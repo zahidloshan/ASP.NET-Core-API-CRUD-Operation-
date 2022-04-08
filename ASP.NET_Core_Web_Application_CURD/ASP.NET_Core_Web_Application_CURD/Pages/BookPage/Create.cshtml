@@ -1,22 +1,37 @@
 ﻿@page
 @model ASP.NET_Core_Web_Application_CURD.Pages.BookPage.CreateModel
-@{
-}
-
-<h1>Create Page</h1>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 <div class ="container row p-0 m-0">
+    
     <div class="col-9">
-<form>
+        <div class="card-header border">
+            <h1>Create Page</h1>
+        </div>
+        <div class="card-body border">
+<form method="post">
   <div class="form-group">
-    <label for="bookName">Name</label>
-    <input type="text" class="form-control" id="bookName">
+    <label asp-for="Book.Name">Name</label>
+    <input type="text" asp-for="Book.Name" class="form-control" id="bookName">
   </div>
   <div class="form-group">
-    <label for="bookAuthor">Author</label>
-    <input type="text" class="form-control" id="bookAuthor">
+    <label asp-for="Book.Author">Author</label>
+    <input type="text" asp-for="Book.Author" class="form-control" id="bookAuthor">
+  </div>
+  <div class="form-group">
+    <label asp-for="Book.Token">Token</label>
+    <input type="text" asp-for="Book.Token" class="form-control" id="bookToken">
   </div>
   <br/>
+  <div class="from-group row">
+  <div class="col-10">
   <button type="submit" class="btn btn-success">Submit</button>
+  
+  </div>
+  <div class="col-2">
+  <a asp-page="Index" class="btn btn-primary form-control">Back to List</a>
+  </div>
+  </div>
 </form>
+</div>
 </div>
 </div>
