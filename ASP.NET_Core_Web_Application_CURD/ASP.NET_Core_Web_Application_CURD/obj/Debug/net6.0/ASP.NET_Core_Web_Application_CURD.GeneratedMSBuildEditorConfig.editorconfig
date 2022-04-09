@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\Zahid Hasan\Desktop\asp.net\ASP.NET_Core_Web_Application_CURD\ASP.NET_Core_Web_Application_CURD
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Zahid Hasan/Desktop/asp.net/ASP.NET_Core_Web_Application_CURD/ASP.NET_Core_Web_Application_CURD/Pages/BookPage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va1BhZ2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Zahid Hasan/Desktop/asp.net/ASP.NET_Core_Web_Application_CURD/ASP.NET_Core_Web_Application_CURD/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
