@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0Wdi4NnQ7VIBkF4e3kzHtqggsjggahThDZWix9NGkAs=",
+  "Hash": "HT5P5AtR2C4LdoBy/4opO1+GUnFd+8UJ5Y6fbbzxtuA=",
   "Source": "ASP.NET_Core_Web_Application_CURD",
   "BasePath": "_content/ASP.NET_Core_Web_Application_CURD",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Zahid Hasan\\Desktop\\asp.net\\ASP.NET_Core_Web_Application_CURD\\ASP.NET_Core_Web_Application_CURD\\wwwroot\\js\\BookList.js",
+      "SourceId": "ASP.NET_Core_Web_Application_CURD",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Zahid Hasan\\Desktop\\asp.net\\ASP.NET_Core_Web_Application_CURD\\ASP.NET_Core_Web_Application_CURD\\wwwroot\\",
+      "BasePath": "_content/ASP.NET_Core_Web_Application_CURD",
+      "RelativePath": "js/BookList.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\BookList.js"
     },
     {
       "Identity": "C:\\Users\\Zahid Hasan\\Desktop\\asp.net\\ASP.NET_Core_Web_Application_CURD\\ASP.NET_Core_Web_Application_CURD\\wwwroot\\js\\site.js",

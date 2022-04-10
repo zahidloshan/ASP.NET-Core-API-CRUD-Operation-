@@ -7,6 +7,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Db contex
 builder.Services.AddDbContext<ApplicationDBContext>(options =>
   options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+//Advance View API Controll support
+builder.Services.AddControllersWithViews();
 // Add services to the container.
 builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 
@@ -26,7 +28,9 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
-
+//Controller Api Will Call
+app.MapControllers();
 app.MapRazorPages();
+
 
 app.Run();
