@@ -20,6 +20,7 @@ namespace ASP.NET_Core_Web_Application_CURD.Controllers
             return Json(new { data = await _db.Book.ToListAsync() });
         }
 
+        //Delete with Api and Ajax
         [HttpDelete]
         public async Task<IActionResult> Delete(int id)
         {

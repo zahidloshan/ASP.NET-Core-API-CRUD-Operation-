@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zahid Hasan\\Desktop\\asp.net\\ASP.NET_Core_Web_Application_CURD\\ASP.NET_Core_Web_Application_CURD\\ASP.NET_Core_Web_Application_CURD.csproj": {}
+    "C:\\Users\\Zahid Hasan\\Desktop\\Asp.Net Curd\\ASP.NET-Core-API-CRUD-Operation-\\ASP.NET_Core_Web_Application_CURD\\ASP.NET_Core_Web_Application_CURD\\ASP.NET_Core_Web_Application_CURD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zahid Hasan\\Desktop\\asp.net\\ASP.NET_Core_Web_Application_CURD\\ASP.NET_Core_Web_Application_CURD\\ASP.NET_Core_Web_Application_CURD.csproj": {
+    "C:\\Users\\Zahid Hasan\\Desktop\\Asp.Net Curd\\ASP.NET-Core-API-CRUD-Operation-\\ASP.NET_Core_Web_Application_CURD\\ASP.NET_Core_Web_Application_CURD\\ASP.NET_Core_Web_Application_CURD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zahid Hasan\\Desktop\\asp.net\\ASP.NET_Core_Web_Application_CURD\\ASP.NET_Core_Web_Application_CURD\\ASP.NET_Core_Web_Application_CURD.csproj",
+        "projectUniqueName": "C:\\Users\\Zahid Hasan\\Desktop\\Asp.Net Curd\\ASP.NET-Core-API-CRUD-Operation-\\ASP.NET_Core_Web_Application_CURD\\ASP.NET_Core_Web_Application_CURD\\ASP.NET_Core_Web_Application_CURD.csproj",
         "projectName": "ASP.NET_Core_Web_Application_CURD",
-        "projectPath": "C:\\Users\\Zahid Hasan\\Desktop\\asp.net\\ASP.NET_Core_Web_Application_CURD\\ASP.NET_Core_Web_Application_CURD\\ASP.NET_Core_Web_Application_CURD.csproj",
+        "projectPath": "C:\\Users\\Zahid Hasan\\Desktop\\Asp.Net Curd\\ASP.NET-Core-API-CRUD-Operation-\\ASP.NET_Core_Web_Application_CURD\\ASP.NET_Core_Web_Application_CURD\\ASP.NET_Core_Web_Application_CURD.csproj",
         "packagesPath": "C:\\Users\\Zahid Hasan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zahid Hasan\\Desktop\\asp.net\\ASP.NET_Core_Web_Application_CURD\\ASP.NET_Core_Web_Application_CURD\\obj\\",
+        "outputPath": "C:\\Users\\Zahid Hasan\\Desktop\\Asp.Net Curd\\ASP.NET-Core-API-CRUD-Operation-\\ASP.NET_Core_Web_Application_CURD\\ASP.NET_Core_Web_Application_CURD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

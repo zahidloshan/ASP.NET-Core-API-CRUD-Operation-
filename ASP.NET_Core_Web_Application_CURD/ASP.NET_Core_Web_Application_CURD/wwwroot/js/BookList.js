@@ -38,11 +38,8 @@ function loadDataTable() {
     });
 }
 
+//Delete With Ajax Start 
 function Delete(url) {
-
-
-
-
 
     swal({
         title: "Are you sure?",
@@ -68,3 +65,4 @@ function Delete(url) {
         }
     });
 }
+//Delete With Ajax End
